@@ -17,6 +17,10 @@
     grid-template-columns: 50px 1fr;
   }
 
+/* .video-preview {
+  position: relative;
+} */
+
   /* .video-preview {
     display: inline-block;
     width: 300px;
@@ -44,6 +48,12 @@
     margin-bottom: 8px;
     position: relative;
   }
+
+  /* .thumbnail-row:hover {
+    width: 150%;
+    position: absolute;
+    z-index: 200;
+  } */
 
   .video-author,
   .video-stats {
